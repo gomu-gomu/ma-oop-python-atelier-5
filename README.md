@@ -1,13 +1,7 @@
-# Title
+# Atelier 5
 
-Exercices are inside of the [tp.pdf](./assets/tp.pdf) file.
+## Assignment
 
-Source code is under the [src](./src/) folder
+Vous préparez une présentation sur les Notions Avancées de Python en respectant les parties décrites dans le modèle [tp.pptx](./assets/tp.pptx).
 
-## Usage
-
-Solutions can be run via:
-
-```sh
-runner src/file
-```
+Vous pouvez s’inspirez du site web : https://www.programiz.com/python-programming/iterator
